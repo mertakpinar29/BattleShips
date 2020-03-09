@@ -61,5 +61,5 @@ You do not need to mark the map with the missed computer guesses, however you wi
 
 
 Step 5 - Game Over
-When the user and computer are done guessing, display the current state of the ocean map and score.
+When the user and computer are done guessing, display the current state of the ocean map and score. 
 
