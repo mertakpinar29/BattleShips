@@ -207,4 +207,4 @@ else {
         else if(computerShips==0){System.out.println("You just made history!\nYou won the battle.");}
     }
 
-}
+} 
