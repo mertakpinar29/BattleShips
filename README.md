@@ -1,2 +1,2 @@
 # battleShips
-Module 3 Project for Microsoft: DEV277x Object Oriented Programming in Java in EDX
+Module 1 Project for Microsoft: DEV277x Object Oriented Programming in Java in EDX
