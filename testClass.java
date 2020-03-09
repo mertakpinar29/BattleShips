@@ -7,4 +7,4 @@ public class testClass {
         main.computerShips(Map);
         main.Battle(Map);
     }
-}
+} 
